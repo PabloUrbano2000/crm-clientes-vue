@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "pablo jamiro",
+      "apellido": "urbano",
+      "email": "pablojamiro2008@gmail.com",
+      "telefono": "939-939-399",
+      "empresa": "pabliiito",
+      "estado": false,
+      "puesto": "no pe",
+      "id": 1,
+      "true": ""
+    },
+    {
+      "nombre": "el amdly",
+      "apellido": "de villalobos",
+      "email": "pabloito@mailinator.com",
+      "telefono": "949-399-299",
+      "empresa": "pablo",
+      "estado": 1,
+      "puesto": "pe",
+      "id": 3
+    }
+  ]
+}
